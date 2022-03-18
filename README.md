@@ -11,11 +11,7 @@ Silent Features
 
 Installation
 ================
-* Clone this repository:  
-	```console
-	git clone https://github.com/tarunk04/Captcha_Generator
-	```
-	or click `Download ZIP` in right panel of repository and extract it.
+* Clone this repository or click [`Download ZIP`](https://github.com/alfazzafashion/captcha-generator/archive/refs/heads/main.zip) in right panel of repository and extract it.
 * Copy `captcha-generator` folder into the project directory.
 * Copy this line to HTML or PHP file of the project.
 	```html
